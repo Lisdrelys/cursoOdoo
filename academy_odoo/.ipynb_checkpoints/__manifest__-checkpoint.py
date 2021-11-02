@@ -10,7 +10,7 @@
     """,
     'author': 'Odoo',
     'website': 'https://www.odoo.com',
-    'category': 'Training',
+    'category': 'training',
     'version'. '1.0',
     'depends': ['base'],
     'data': [],
